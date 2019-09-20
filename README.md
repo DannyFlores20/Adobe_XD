@@ -1,6 +1,6 @@
 Adobe XD Herramienta para crear Mockups
 =======================================
-
+![XD](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png)
 # 1. Trabajar con Adobe XD
 Adobe XD es una aplicación diseñada principalmente para la creación de prototipos de interfaces gráficas; estos prototipos nos permiten mostrar al usuario un resultado aproximado de lo que será su aplicación o página web. Adobe XD, nos otorga diferentes herramientas para trabajar como el de crear formas básicas, la integración con Photoshop o Ilustator e incluso utilizar bibliotecas propias de la aplicación. Adicionalmente, Adobe XD permite navegar entre las diferentes interfaces que hemos creado como si fuese una aplicación real, y todo esto sin haber programado.
 
@@ -19,6 +19,7 @@ Puede continuar diseñando en sus aplicaciones preferidas, llevar los activos a 
 Puede traer activos a Adobe XD desde otras aplicaciones de Adobe, como Photoshop, Illustrator, y desde aplicaciones de terceros, como Sketch. Luego puede mejorar aún más estos activos en Adobe XD o usarlos para desarrollar prototipos interactivos.
 
 ## Traer activos desde Photoshop
+![Photoshop](https://i2.wp.com/pivigames.blog/wp-content/uploads/2017/01/Descargar-Adobe-Photoshop-CC-Portable-Gratis.jpg?fit=620%2C350&ssl=1)
 Puede traer activos de Photoshop a XD de varias maneras:
 * Puede abrir los archivos .psd directamente en XD. Luego, puede editar el archivo en XD, como cualquier otro archivo de XD, cablear interacciones y compartir como prototipos o especificaciones de diseño. Para obtener más información, consulte Abrir archivos de Photoshop en XD.
 * Puede importar el archivo .psd a XD
