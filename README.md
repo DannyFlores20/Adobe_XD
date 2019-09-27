@@ -37,4 +37,9 @@ Cuando se importa un archivo de Photoshop a XD:
 * Los objetos inteligentes se importan como capas expandidas en lugar de mapas de bits y se conservan las capas de ajuste.
 * Se conservan todos los vínculos a activos de bibliotecas Creative Cloud desde Photoshop.
 
-# 5. Compartir prototipos con tras aplicaciones o sistemas
+# 5. Compartir prototipos con otras aplicaciones o sistemas
+
+# Exportar prototipos en formato grafico.
+
+Para exportar un prototipo es muy fácil hay varias maneras de exportar secciones, lotes las que queremos que se visualicen o también exportar de una vez todas las áreas de trabajo que tengamos al momento de exportarlas nos da la opción de convertirlas en formato ( PNG SVG,PDF,JPG)  y según el formato que elijas cambiaran los parámetros de trabajo y después de ello solo le damos en exportar y listo.
+
